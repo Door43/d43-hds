@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hds:home|Door43 (hds)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hds|d43-hds repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hds/archive/master.zip|d43-hds.zip]]
+
+**Recent Changes**
+{{changes>ns = hds}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hds|Ethnologue data]]
+
